@@ -14,12 +14,11 @@ Your answer goes here
 
 Unless stated otherwise, your answer to the practical part should include the following elements:
 
- - Description of the aim of the simulation study.
- - Description of the different quantities that intervene in your simulation study. Explain how these quantities (fixed or random) are defined and the reasoning behind the choices you made.
- - Description of your findings using appropriate graphics and/or tables (with a caption!) that are well commented in the text. 
- 
+-   Description of the aim of the simulation study.
+-   Description of the different quantities that intervene in your simulation study. Explain how these quantities (fixed or random) are defined and the reasoning behind the choices you made.
+-   Description of your findings using appropriate graphics and/or tables (with a caption!) that are well commented in the text.
+
 The code should not appear in the PDF report, unless there is a specific reason to include it.
- 
 
 ```{r}
 #| echo: false
